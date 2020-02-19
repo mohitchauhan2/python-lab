@@ -1,0 +1,5 @@
+tuple=(1,2,3,4,5,6)
+tuple=tuple+(7,)
+print(tuple)
+tuple=tuple[:4]+(6,7,8,9,10,11,12)
+print(tuple)
